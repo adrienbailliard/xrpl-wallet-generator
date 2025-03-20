@@ -4,7 +4,7 @@ A simple wallet generator for the XRP Ledger.
 
 ## What You Get
 
-When you run this script, it will generate a new **XRP Ledger wallet** and display the details in the console: 
+When you run this script, it will generate a new **XRP Ledger wallet** and display the details: 
 + Public Address
 + Secret Key  
 
