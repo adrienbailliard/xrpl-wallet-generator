@@ -37,4 +37,4 @@ When you run this command, the script will generate a new **XRP Ledger wallet** 
 + Public Address
 + Secret Key  
 
-To make configuration easier, the script also generates a **QR code** for each information.
+To make configuration easier, the script also generates a **QR code** for each piece of information.
