@@ -1,6 +1,6 @@
 # XRPL Wallet Generator
 
-A Simple Wallet Generator for the XRP Ledger.
+A simple wallet generator for the XRP Ledger.
 
 ## What You Get
 
