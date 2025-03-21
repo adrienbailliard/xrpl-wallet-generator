@@ -20,7 +20,7 @@ function generateWallet(): void
 
 process.stdout.write('\x1B[2J\x1B[3J\x1B[H');
 process.stdout.write('\x1b]0;XRPL Wallet Generator\x07');
-console.log("XRPL Wallet Generator,\nby Adrien Bailliard\n\n");
+console.log("A simple wallet generator for the XRP Ledger,\nby Adrien Bailliard\n\n");
 
 
 generateWallet();
